@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vision-Research</string>
+    <string name="error_prompt">Error Getting Text</string>
+    <string name="low_storage_error">Error Memori Lemah</string>
+    <string name="take_a_photo">Take a Photo</string>
+    <string name="choose_from_gallery">Choose From Gallery</string>
+</resources>
